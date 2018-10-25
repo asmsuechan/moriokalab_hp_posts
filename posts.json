@@ -1,5 +1,6 @@
-[
-  {"id": 1, "title": "ダンゴムシを栄誉賞を受賞1", "content": "本研究室所属の正角隆治が先日,日本人初のダンゴムシ栄誉賞を受賞した。1", "thumbnail_url": "https://source.unsplash.com/DnWYw0zLJBg", "created_at": 1540439109386, "updated_at": 1540439109386},
-  {"id": 2, "title": "ダンゴムシを栄誉賞を受賞ち/10/12", "content": "本研究室所属の正角隆治が先日,日本人初のダンゴムシ栄誉賞を受賞した。2", "thumbnail_url": "https://source.unsplash.com/DnWYw0zLJBg", "created_at": 1540439109386, "updated_at": 1540439109386},
-  {"id": 3, "title": "ダンゴムシを栄誉賞を受賞3", "content": "本研究室所属の正角隆治が先日,日本人初のダンゴムシ栄誉賞を受賞した。3", "thumbnail_url": "https://source.unsplash.com/DnWYw0zLJBg", "created_at": 1540439109386, "updated_at": 1540439109386}
-]
+{"posts": [
+    {"id": 1, "title": "ダンゴムシを栄誉賞を受賞1", "content": "本研究室所属の正角隆治が先日,日本人初のダンゴムシ栄誉賞を受賞した。1", "thumbnail_url": "https://source.unsplash.com/DnWYw0zLJBg", "created_at": 1540439109386, "updated_at": 1540439109386},
+    {"id": 2, "title": "ダンゴムシを栄誉賞を受賞ち/10/12", "content": "本研究室所属の正角隆治が先日,日本人初のダンゴムシ栄誉賞を受賞した。2", "thumbnail_url": "https://source.unsplash.com/DnWYw0zLJBg", "created_at": 1540439109386, "updated_at": 1540439109386},
+    {"id": 3, "title": "ダンゴムシを栄誉賞を受賞3", "content": "本研究室所属の正角隆治が先日,日本人初のダンゴムシ栄誉賞を受賞した。3", "thumbnail_url": "https://source.unsplash.com/DnWYw0zLJBg", "created_at": 1540439109386, "updated_at": 1540439109386}
+  ]
+}
